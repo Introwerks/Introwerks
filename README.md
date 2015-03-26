@@ -1,4 +1,4 @@
-# Processing
+# Introwerks
 Processing scripts for image manipulation and glitch art.
 
 More of my work can be found [here](https://www.facebook.com/introwerks).
