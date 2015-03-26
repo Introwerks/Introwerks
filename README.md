@@ -1,10 +1,14 @@
 # Processing
-Processing scripts for image manipulation.
+Processing scripts for image manipulation and glitch art.
 
-Previews for such scripts can be found [here](https://www.facebook.com/introwerks).
+More of my work can be found [here](https://www.facebook.com/introwerks).
 
 Scripts:
 
-* **Grid1_0** - Pixel pushing on multiple directions based on brightness. Reads and exports multiple formats including .gif.  Also includes an interface for easier manipulation.  
+* **Color Crusher** - Crushes the color of an image.
+
+* **Grid1_0** - Pixel pushing on multiple directions based on brightness and oscillates gif frame rate. Supports multiple formats. Includes an interface for easier manipulation. Exports animated gifs. 
+
+* **Vmap** - Vertex/Voxel mapping. 
 
 
