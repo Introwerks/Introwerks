@@ -9,7 +9,7 @@ Scripts:
 
 * **Grid1_0** - Pixel pushing on multiple directions based on brightness and oscillates gif frame rate. Supports multiple formats. Includes an interface for easier manipulation. Exports animated gifs. 
 
-* **Introwaves** - Pixel Oscillation. Exports multiple frames.
+* **Introwaves** - Pixel oscillation. Exports multiple frames.
 
 * **Vmap** - Vertex/Voxel mapping. 
 
