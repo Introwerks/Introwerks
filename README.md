@@ -11,6 +11,8 @@ Scripts:
 
 * **Introwaves** - Pixel oscillation. Exports multiple frames.
 
+* **Line Sorting** - Line pixel sorting. Left/Top sorting.
+
 * **Vmap** - Vertex/Voxel mapping. 
 
 
