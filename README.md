@@ -16,7 +16,7 @@ Scripts:
 
 * **Line Glitch** - Left to right/Top to bottom line glitches.
 
-* **Random Blocks** - Copies the image in blocks and randomizes result.
+* **Random Blocks** - Copies the image in blocks and randomise result.
 
 * **Vmap** - Vertex/Voxel mapping. 
 
