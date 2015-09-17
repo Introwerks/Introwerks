@@ -1,7 +1,8 @@
 # Introwerks
-Processing scripts for image manipulation and glitch art.
+Processing scripts for image manipulation and glitch aesthetic.
 
-More of my work can be found [here](https://www.facebook.com/introwerks).
+More of my work can be found [here](https://www.facebook.com/introwerks) and [here]
+(http://introwerks.tumblr.com/).
 
 Scripts:
 
