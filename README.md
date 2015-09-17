@@ -19,6 +19,8 @@ Scripts:
 
 * **Rutt-Etra Emulator** - Basic emulation of the rutt-etra video synth.
 
+* **Subtle Sorting** - Subtle pixel sorting (wind effect).
+
 * **Vmap** - Vertex/Voxel mapping. 
 
 
