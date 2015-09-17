@@ -5,6 +5,8 @@ More of my work can be found [here](https://www.facebook.com/introwerks).
 
 Scripts:
 
+* **Rutt-Etra Emulator** - Basic emulation of the rutt-etra video synth.
+
 * **Color Crusher** - Crushes the color of an image.
 
 * **Grid1_0** - Pixel pushing on multiple directions based on brightness and oscillates gif frame rate. Supports multiple formats. Includes an interface for easier manipulation. Exports animated gifs. 
