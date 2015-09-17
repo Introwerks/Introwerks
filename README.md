@@ -14,9 +14,9 @@ Scripts:
 
 * **Introwaves** - Pixel oscillation. Exports multiple frames.
 
-* **Line Sorting** - Line pixel sorting. Left/Top sorting.
+* **Line Glitch** - Left to right/Top to bottom line glitches.
 
-* **Random Blocks** - Randomized blocks.
+* **Random Blocks** - Copies the image in blocks and randomizes result.
 
 * **Vmap** - Vertex/Voxel mapping. 
 
