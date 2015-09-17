@@ -6,7 +6,6 @@ More of my work can be found on [Facebook](https://www.facebook.com/introwerks) 
 
 Scripts:
 
-* **Rutt-Etra Emulator** - Basic emulation of the rutt-etra video synth.
 
 * **Color Crusher** - Crushes the color of an image.
 
@@ -17,6 +16,8 @@ Scripts:
 * **Line Glitch** - Left to right/Top to bottom line glitches.
 
 * **Random Blocks** - Copies the image in blocks and randomise result.
+
+* **Rutt-Etra Emulator** - Basic emulation of the rutt-etra video synth.
 
 * **Vmap** - Vertex/Voxel mapping. 
 
