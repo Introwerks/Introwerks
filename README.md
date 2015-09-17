@@ -9,6 +9,8 @@ Scripts:
 
 * **Color Crusher** - Crushes the color of an image.
 
+* **Diagonal Glitch** - Diagonal line glitch.
+
 * **Grid1_0** - Pixel pushing on multiple directions based on brightness and oscillates gif frame rate. Supports multiple formats. Includes an interface for easier manipulation. Exports animated gifs. 
 
 * **Introwaves** - Pixel oscillation. Exports multiple frames.
