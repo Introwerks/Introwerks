@@ -12,7 +12,7 @@ int threshold;
 final static int LEFT = 0;
 final static int TOP = 1;
 
-int mode = TOP; // sorting modes: LEFT, TOP.
+int mode = TOP; // glitch mode: LEFT, TOP.
 float amt = 20.0; // threshold amount.
 
 void setup() {
