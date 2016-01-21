@@ -2,22 +2,23 @@
 //2015 @ introwerks 
 
 PImage img;
-String name = "maria"; //file name 
+String name = "DSC_0001~2"; //file name 
 String type = "jpg"; //file type
 int count = int(random(666));
 color col;
 int c;
-
 
 int space =5; // space between lines
 float weight = 1; // line weight
 float depth = 0.9; // z depth
 int zoom = 100; // zoom image
 
+void settings() {
+  img = loadImage(name + "." + type);
+  size(img.width,img.height,P3D);
+}
 void setup() {
   background(0);
-  img = loadImage(name + "." + type);
-  size(img.width, img.height, P3D);
   println("christian attard, 2015 @ introwerks");
 
   for (int i = 0; i < img.width; i+=space) {
@@ -32,9 +33,8 @@ void setup() {
     }
     endShape();
   }
-  
+
   save(name + "_" + count + "." + type);
   println("done");
   exit();
 }
-
