@@ -79,10 +79,12 @@ float getChannel(color c) {
   return channel_weight * (channel>5?255-cc:cc);
 }
 
+void settings() {
+  img = loadImage(name + "." + type);
+  size(img.width,img.height,P3D);
+}
 
 void setup() {
-  img = loadImage(name + "." + type);
-  size(img.width, img.height, P3D);
   println("christian attard, 2015 @ introwerks");
 }
 
@@ -189,4 +191,3 @@ void keyPressed() {
     println("export");
   }
 }
-

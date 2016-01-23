@@ -10,9 +10,11 @@ String type = "jpg"; // file type
 int wSize = 10; // wave size
 int exp = 10; // number of frames to export 
 
-void setup() {
+void settings() {
   img = loadImage(name + "." + type);
-  size(img.width, img.height);
+  size(img.width,img.height,P3D);
+}
+void setup() {
   println("christian attard, 2015 @ introwerks");
 }
 
@@ -44,4 +46,3 @@ void wave(int w, int h) {
     }
   }
 }
-
