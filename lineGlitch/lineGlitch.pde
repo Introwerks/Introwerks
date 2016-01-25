@@ -15,10 +15,12 @@ final static int TOP = 1;
 int mode = TOP; // glitch mode: LEFT, TOP.
 float amt = 20.0; // threshold amount.
 
-void setup() {
-
+void settings() {
   img = loadImage(name + "." + type);
-  size(img.width, img.height);
+  size(img.width,img.height,P3D);
+}
+
+void setup() {
   println("christian attard, 2015 @ introwerks");
 
   img.loadPixels();
@@ -46,4 +48,3 @@ void setup() {
   println("done");
   exit();
 }
-
