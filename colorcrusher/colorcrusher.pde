@@ -11,9 +11,12 @@ String type = "jpg"; //file type
 int count = int(random(666));
 
 
-void setup() {
+void settings() {
   img = loadImage(name + "." + type);
   size(img.width, img.height);
+}
+
+void setup() {
   println("christian attard, 2015 @ introwerks");
   image(img, 0, 0);
 
@@ -27,6 +30,3 @@ void setup() {
   println("done");
   exit();
 }
-
-
-
