@@ -2,7 +2,7 @@
 //2015 @ introwerks 
 
 PImage img;
-String name = "DSC_0001~2"; //file name 
+String name = "maria"; //file name 
 String type = "jpg"; //file type
 int count = int(random(666));
 color col;
